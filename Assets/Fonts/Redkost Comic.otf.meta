@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 88565d6231e9247dcbb4868ad822f422
+timeCreated: 1490921925
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Redkost Comic
+  fontNames:
+  - Redkost Comic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

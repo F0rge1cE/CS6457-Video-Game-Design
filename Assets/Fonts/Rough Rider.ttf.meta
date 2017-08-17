@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b241f244264404b7fa26e18e9159d162
+timeCreated: 1490922622
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rough Rider
+  fontNames:
+  - Rough Rider
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
